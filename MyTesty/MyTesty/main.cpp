@@ -2,5 +2,6 @@
 
 int main()
 {
-	std::cout << "aa" << std::endl;
+	std::cout << "abcded" << std::endl;
+	std::cout << "a2222" << std::endl;
 }
