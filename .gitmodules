@@ -1,0 +1,3 @@
+[submodule "SecondTest"]
+	path = SecondTest
+	url = https://github.com/surmounter/SecondTest
